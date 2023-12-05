@@ -1,0 +1,42 @@
+[
+  {
+    "user_name": "JohnDoe",
+    "password": "password123"
+  },
+  {
+    "user_name": "JaneDoe",
+    "password": "password456"
+  },
+  {
+    "user_name": "BobSmith",
+    "password": "password789"
+  },
+  {
+    "user_name": "AliceJohnson",
+    "password": "password101"
+  },
+  {
+    "user_name": "CharlieBrown",
+    "password": "password202"
+  },
+  {
+    "user_name": "DavidWilliams",
+    "password": "password303"
+  },
+  {
+    "user_name": "EvaJones",
+    "password": "password404"
+  },
+  {
+    "user_name": "FrankMiller",
+    "password": "password505"
+  },
+  {
+    "user_name": "GraceWilson",
+    "password": "password606"
+  },
+  {
+    "user_name": "HenryMoore",
+    "password": "password707"
+  }
+]

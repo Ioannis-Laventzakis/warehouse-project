@@ -1,0 +1,36 @@
+
+t
+java:S1192†"]Define a constant instead of duplicating this literal "Please answer with yes or no" 3 times.(àÆ¦»
+q
+java:S3008"VRename this field "IS_EMPLOYEE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–› ýýÿÿÿÿ
+@	java:S106H"+Replace this use of System.out by a logger.(ˆÈ¸×
+Q	java:S125"<This block of commented-out lines of code should be removed.(àãÙä
+H
+java:S6126H"2Replace this String concatenation with Text block.(ˆÈ¸×
+@	java:S106U"+Replace this use of System.out by a logger.(Î÷…¤
+E	java:S106W"+Replace this use of System.out by a logger.(Ž€Ï„ÿÿÿÿÿ
+?	java:S106\"+Replace this use of System.out by a logger.(€¶ê
+@	java:S106a"+Replace this use of System.out by a logger.(ÖÔ»ï
+E	java:S106c"+Replace this use of System.out by a logger.(¸•ì­üÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(Ò¨§üÿÿÿÿ
+?	java:S106n"+Replace this use of System.out by a logger.(‹¢Ýe
+@	java:S106o"+Replace this use of System.out by a logger.(êÝÀ­
+E	java:S106s"+Replace this use of System.out by a logger.(–Ú•Öþÿÿÿÿ
+E	java:S106x"+Replace this use of System.out by a logger.(™Òæ€øÿÿÿÿ
+E	java:S106z"+Replace this use of System.out by a logger.(÷àüíüÿÿÿÿ
+?	java:S106|"+Replace this use of System.out by a logger.(ÙÏ…
+A	java:S106‚"+Replace this use of System.out by a logger.(¢Ð ¾
+A	java:S106…"+Replace this use of System.out by a logger.(ó ñÙ
+F	java:S106‰"+Replace this use of System.out by a logger.(•¡·‡þÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(¦Ž¨àùÿÿÿÿ
+A	java:S106”"+Replace this use of System.out by a logger.(„‹ÄÜ
+F	java:S106›"+Replace this use of System.out by a logger.(ÜÁîøøÿÿÿÿ
+F	java:S106ž"+Replace this use of System.out by a logger.(Ì˜óÆþÿÿÿÿ
+F	java:S106¡"+Replace this use of System.out by a logger.(«¤Ñòøÿÿÿÿ
+A	java:S106¤"+Replace this use of System.out by a logger.(Î÷…¤
+F	java:S106§"+Replace this use of System.out by a logger.(çïÊ­øÿÿÿÿ
+A	java:S106¨"+Replace this use of System.out by a logger.(êÝÀ­
+F	java:S106¬"+Replace this use of System.out by a logger.(’Š×üÿÿÿÿ
+F	java:S106±"+Replace this use of System.out by a logger.(Õ±ÙÂþÿÿÿÿ
+F	java:S106´"+Replace this use of System.out by a logger.(•¡·‡þÿÿÿÿ
+F	java:S106¸"+Replace this use of System.out by a logger.(ÙæÿØøÿÿÿÿ

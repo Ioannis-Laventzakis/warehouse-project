@@ -11,4 +11,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="json-simple-1.1.1" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="2124880c-5947-4c1f-a911-8f7ce28f8b16" />
+  </component>
 </module>

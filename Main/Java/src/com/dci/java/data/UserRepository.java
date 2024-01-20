@@ -8,27 +8,14 @@ import org.json.simple.JSONValue;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
-
-
-  /*The Data Repository
-
-  @author pujanov*/
-
 
 public class UserRepository {
 
     private static List<Employee> EMPLOYEE_LIST = new ArrayList<Employee>();
 
-
-    /*Load employee, records from the personnel.json file*/
-
     static {
-        // System.out.println("Loading items");
         BufferedReader reader = null;
         try {
             EMPLOYEE_LIST.clear();
@@ -42,7 +29,7 @@ public class UserRepository {
                         JSONObject jsonData = (JSONObject) obj;
                         String userName = jsonData.get("user_name").toString();
                         String password = jsonData.get("password").toString();
-                        Employee employee = new Employee(userName, password, null);
+                        Employee employee = new Employee(userName, password);
                         EMPLOYEE_LIST.add(employee);
                     }
                 }
@@ -59,15 +46,9 @@ public class UserRepository {
         }
     }
 
-
-      /*Get All persons
-
-      @return*/
-
     public static List<Employee> getAllEmployees() {
         return EMPLOYEE_LIST;
     }
-
 
     public static boolean isUserValid(String userName, String password) {
         List<Employee> employees = getAllEmployees();
@@ -83,7 +64,6 @@ public class UserRepository {
     }
 
     public static boolean isUserEmployee(String name) {
-        // is name also the name of an employee
         List<Employee> employees = getAllEmployees();
 
         for (Employee employee : employees) {
@@ -93,7 +73,6 @@ public class UserRepository {
         }
         return false;
     }
-
 
     public static Employee getEmployee(String name) {
         List<Employee> employees = getAllEmployees();
@@ -106,5 +85,3 @@ public class UserRepository {
         return null;
     }
 }
-
-

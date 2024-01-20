@@ -1,4 +1,4 @@
-package com.dci.java.data;
+package com.dci.java.data.test;
 
 import com.dci.java.data.personnel.Employee;
 import com.dci.java.data.personnel.User;

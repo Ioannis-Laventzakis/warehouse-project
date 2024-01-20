@@ -1,4 +1,4 @@
-package com.dci.java.data;
+package com.dci.java.data.test;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

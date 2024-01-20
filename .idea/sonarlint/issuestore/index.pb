@@ -15,3 +15,7 @@ d
 .Main/Java/src/com/dci/java/data/test/Test.java,4\3\43f24d8b5e2920e83b0dbf0aab56cc5a64ccbddc
 c
 3Main/Java/src/com/dci/java/data/UserRepository.java,c\b\cb0c2ac24eb9477fc2bb86d963665507f73e0fd4
+m
+=Main/Java/src/com/dci/java/data/test/TheWarehouseManager.java,5\4\5416119eab4d14df4bdbd449ebe7d294481e5436
+h
+8Main/Java/src/com/dci/java/data/test/UserRepository.java,6\e\6ed0b018d641501739f82403f2efd216b34c08d4

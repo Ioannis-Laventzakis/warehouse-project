@@ -13,3 +13,5 @@ d
 4Main/Java/src/com/dci/java/data/stock/Warehouse.java,9\6\96cae67ee99450bc70860a1ba2475c545eb89366
 ^
 .Main/Java/src/com/dci/java/data/test/Test.java,4\3\43f24d8b5e2920e83b0dbf0aab56cc5a64ccbddc
+c
+3Main/Java/src/com/dci/java/data/UserRepository.java,c\b\cb0c2ac24eb9477fc2bb86d963665507f73e0fd4

@@ -11,3 +11,5 @@ _
 /Main/Java/src/com/dci/java/data/stock/Item.java,c\8\c862cb1997c4c91e6937a181c5497c185a4e1c36
 d
 4Main/Java/src/com/dci/java/data/stock/Warehouse.java,9\6\96cae67ee99450bc70860a1ba2475c545eb89366
+^
+.Main/Java/src/com/dci/java/data/test/Test.java,4\3\43f24d8b5e2920e83b0dbf0aab56cc5a64ccbddc

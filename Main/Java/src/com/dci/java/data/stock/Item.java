@@ -3,30 +3,18 @@ package com.dci.java.data.stock;
 import java.util.Date;
 
 public class Item {
-
-    // ATTRIBUTES
     private String state;
     private String category;
     private Date dateOfStock;
-    private int warehouse;      // does not need warehouse property, but keep it
+    private int warehouse;
 
-
-
-
-
-    // CONSTRUCTOR
     public Item(String state, String category, Date dateOfStock, int warehouse) {
         this.state = state;
         this.category = category;
         this.dateOfStock = dateOfStock;
-        this.warehouse = warehouse;   // warehouse should not be stored as an object, but still taken in as an argument
+        this.warehouse = warehouse;
     }
 
-
-
-
-
-    // GETTER
     public String getState() {
         return state;
     }
@@ -43,11 +31,6 @@ public class Item {
         return warehouse;
     }
 
-
-
-
-
-    // SETTER
     public void setState(String state) {
         this.state = state;
     }
@@ -64,13 +47,10 @@ public class Item {
         this.warehouse = warehouse;
     }
 
-
     @Override
     public String toString() {
         return "Item{" +
                 "state=" + state +
-                ", category=" + category +
-                ", dateOfStock=" + dateOfStock +        //should date be included?
-                "}";
+                ", category=" + category;
     }
 }

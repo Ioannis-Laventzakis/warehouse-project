@@ -1,13 +1,11 @@
 
-C
-java:S1172"(Remove this unused method parameter "o".(˜ÇŽÊúÿÿÿÿ
-U
-java:S11612":Add the "@Override" annotation above this method signature(ä›í üÿÿÿÿ
-@	java:S106<"+Replace this use of System.out by a logger.(·Š´
-U
-java:S1161A":Add the "@Override" annotation above this method signature(–²Å¿úÿÿÿÿ
-?	java:S106B"+Replace this use of System.out by a logger.(óŽ…B
-U
-java:S1161I":Add the "@Override" annotation above this method signature(ÑŠ£Ÿûÿÿÿÿ
-E	java:S106L"+Replace this use of System.out by a logger.(Ë„¾ùÿÿÿÿ
-@	java:S106N"+Replace this use of System.out by a logger.(·Š´
+\
+java:S1161"":Add the "@Override" annotation above this method signature(ä›í üÿÿÿÿ8à‡ÀºÒ1
+G	java:S106)"+Replace this use of System.out by a logger.(·Š´8âÚ¯ºÒ1
+\
+java:S1161,":Add the "@Override" annotation above this method signature(–²Å¿úÿÿÿÿ8á‡ÀºÒ1
+F	java:S106-"+Replace this use of System.out by a logger.(óŽ…B8á‡ÀºÒ1
+\
+java:S11612":Add the "@Override" annotation above this method signature(ÑŠ£Ÿûÿÿÿÿ8á‡ÀºÒ1
+L	java:S1064"+Replace this use of System.out by a logger.(ìðå³þÿÿÿÿ8á‡ÀºÒ1
+G	java:S1066"+Replace this use of System.out by a logger.(·Š´8â‡ÀºÒ1

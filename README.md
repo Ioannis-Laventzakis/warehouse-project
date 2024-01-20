@@ -1,9 +1,7 @@
 # Summary of our Warehouse Project<br>
 
 ## Group distribution<br>
-Our original group consisted of 5 people, including Ioannis, Robin, Aria, Rene and Michelle. <br>
-Sadly, Aria couldn't participate because he catched the Corona flue.<br>
-It is noted that Rene's contribution was very limited. Despite our efforts to encourage participation, Rene was not as actively involved in the project tasks as anticipated. <br>
+Ioannis, Robin, and Michelle. <br><br>
 <br>
 <br>
 ## Assignment structure<br>

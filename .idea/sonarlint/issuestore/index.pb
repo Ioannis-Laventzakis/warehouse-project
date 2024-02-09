@@ -1,6 +1,4 @@
 
-h
-8Main/Java/src/com/dci/java/data/TheWarehouseManager.java,3\d\3d8055ee96cbc8d549723129d8949433b7e4c25f
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 g
@@ -11,10 +9,6 @@ _
 /Main/Java/src/com/dci/java/data/stock/Item.java,c\8\c862cb1997c4c91e6937a181c5497c185a4e1c36
 d
 4Main/Java/src/com/dci/java/data/stock/Warehouse.java,9\6\96cae67ee99450bc70860a1ba2475c545eb89366
-^
-.Main/Java/src/com/dci/java/data/test/Test.java,4\3\43f24d8b5e2920e83b0dbf0aab56cc5a64ccbddc
-c
-3Main/Java/src/com/dci/java/data/UserRepository.java,c\b\cb0c2ac24eb9477fc2bb86d963665507f73e0fd4
 m
 =Main/Java/src/com/dci/java/data/test/TheWarehouseManager.java,5\4\5416119eab4d14df4bdbd449ebe7d294481e5436
 h

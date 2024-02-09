@@ -51,6 +51,10 @@ public class Item {
     public String toString() {
         return "Item{" +
                 "state=" + state +
-                ", category=" + category;
+                ", category=" + category +
+                ", dateOfStock=" + dateOfStock +
+                ", warehouse=" + warehouse +
+                '}';
+
     }
 }

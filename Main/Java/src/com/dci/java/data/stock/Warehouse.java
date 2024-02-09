@@ -28,7 +28,6 @@ public class Warehouse {
         this.stock = stock;
     }
 
-    // This method should return an integer value instead of printing it
     public int occupancy() {
         return stock.size();
     }

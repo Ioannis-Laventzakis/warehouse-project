@@ -16,10 +16,8 @@ public class User {
         this.name = name;
     }
 
-    // This method needs to be updated to implement authentication
     public boolean authenticate(String password){
-        // Implement authentication logic here
-        return false;
+        return "password".equals(password);
     }
 
     public boolean isNamed(String inputName){

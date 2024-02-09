@@ -1,7 +1,5 @@
 
-Q
-java:S1172"/Remove this unused method parameter "password".(¾°°ƒùÿÿÿÿ8Œ½¿ºÒ1
-F	java:S106"+Replace this use of System.out by a logger.(ó…B8ø›µºÒ1
-L	java:S106%"+Replace this use of System.out by a logger.(Ü£Ã™ùÿÿÿÿ8½¿ºÒ1
+F	java:S106"+Replace this use of System.out by a logger.(ó…B8¢›¨ğØ1
+L	java:S106#"+Replace this use of System.out by a logger.(Ü£Ã™ùÿÿÿÿ8£›¨ğØ1
 U
-java:S1068"3Remove this unused "isAuthenticated" private field.(´Ö»úÿÿÿÿ8½¿ºÒ1
+java:S1068"3Remove this unused "isAuthenticated" private field.(´Ö»úÿÿÿÿ8£›¨ğØ1
